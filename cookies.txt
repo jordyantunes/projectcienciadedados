@@ -1,0 +1,20 @@
+# HTTP Cookie File for domains related to couchsurfing.com.
+# Downloaded with cookies.txt Chrome Extension (https://chrome.google.com/webstore/detail/njabckikapfpffapmjgojcnbfjonfjfg)
+# Example:  wget -x --load-cookies cookies.txt https://www.couchsurfing.com/users/2004008142/references
+#
+.couchsurfing.com	TRUE	/	FALSE	1554939554	__gads	ID=e50f914b621f21ca:T=1491867554:S=ALNI_MZFbl9RlmKiDhgRwpQgjiSonzgx_Q
+www.couchsurfing.com	FALSE	/	FALSE	1807292478	vp_size	large
+.couchsurfing.com	TRUE	/	FALSE	1492463769	__utmt	1
+www.couchsurfing.com	FALSE	/	TRUE	1493672777	remember_user_token	BAhbCFsGbCsHpYGLd0kiIiQyYSQxMCRuWUpUWjFHNzk1YS5PRTAwVTRJRDkuBjoGRVRJIhcxNDkyNDYzMTUyLjUxMTExOTQGOwBG--d09861adc5e5ed82f51198da327c00dc7f8b5b23
+www.couchsurfing.com	FALSE	/	TRUE	0	XSRF-TOKEN	tgHKv%2Br0z75sc6J97Xr4iC5V5KlopOcOw%2FwHpYmkI2s%3D
+www.couchsurfing.com	FALSE	/	TRUE	0	_hammertime_session	VWx1Z2ZTS3RSRFg2VHU3MEpnRUJtV29mQkJLcDB2QTZtUitsdExlbGFlMVoxbTBnWFFFSGJ2OTFkTEVmM0xTc29LQ1oyWVhmY3JhWmgreWRESW42RjlZemc4SHUzK3FocEZBV2E3djZjcHZrTXphTk9rZUYwYW5DLzJzSnhqQ2FDc0pRQXRKVlpJRWI3WVIwRlIwb2tGZVB2RlRvUG0yOGg1RTBUQnprNE90aFJmRGRxcTA5TzRKTDBrTlR6Y2tKc25ac1greGx5WURTSEtiamlrQi9qSWM1d2gweUgzb1Q2U1BEVW82bnR2RkRseWpabitwZjdtbzdJbWRybHlWL0laVUZWZFJSQ2ptL1BhS2V1YnpUUTdZTXR6aXh1SGJrbkdzYWxRZWhROGYrdFY5SDFkR2hKU1dYSzFqZkhWS1J1S2V5TWpXWDI3bitYSkl0TXNsRFd4dXg5SVFhSE1GbWpPV1RNYjVwN2FzY2oxVmYrendUTTZYcndrZGdMYjgxaXNpdDJTdFVzK2R3bkEzcW05KzhHUW1FT1NSNlhneHBIVm5XLzBNNkhJSG5kb2RBYmV1UWRkKzBVMzhWeUJaZGZXZk03d1gxMDI4ekk2YzVIaWt3NkE9PS0tQ3JVaXBsc3E5Z0ZhdUhYazBqcjhOZz09--f8582710f361de0b41be0078caaadf418ed5b845
+www.couchsurfing.com	FALSE	/	TRUE	1807823185	_safe_cookies__known_cookies	XSRF-TOKEN%7C_hammertime_session%7Cremember_user_token
+.couchsurfing.com	TRUE	/	FALSE	1807823185	optimizelyBuckets	%7B%228312940263%22%3A%228316425651%22%7D
+.couchsurfing.com	TRUE	/	FALSE	1807823185	optimizelyEndUserId	oeu1491867471189r0.49635098239117026
+.couchsurfing.com	TRUE	/	FALSE	1807823185	optimizelySegments	%7B%226262200512%22%3A%22false%22%2C%227984360201%22%3A%22true%22%2C%226256040619%22%3A%22search%22%2C%226272190004%22%3A%22none%22%2C%226256730430%22%3A%22gc%22%2C%228205911074%22%3A%222017-04-10%252023%253A39%253A05%2520%22%2C%228205962622%22%3A%221995-04-15%252000%253A00%253A00%2520%22%2C%228203105736%22%3A%22male%22%2C%228210522224%22%3A%22false%22%2C%228211203043%22%3A%22false%22%2C%228208640628%22%3A%22false%22%2C%228211540624%22%3A%22Curitiba%252C%2520State%2520of%2520P%22%2C%228233820440%22%3A%22true%22%2C%228328627670%22%3A%222005631397%22%7D
+.couchsurfing.com	TRUE	/	FALSE	1492463200	optimizelyPendingLogEvents	%5B%5D
+.couchsurfing.com	TRUE	/	FALSE	1555535186	__utma	209986695.560278891.1491867473.1491954277.1492463169.5
+.couchsurfing.com	TRUE	/	FALSE	1492464986	__utmb	209986695.3.10.1492463169
+.couchsurfing.com	TRUE	/	FALSE	0	__utmc	209986695
+.couchsurfing.com	TRUE	/	FALSE	1508231186	__utmz	209986695.1491940562.2.2.utmcsr=bing|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
+.couchsurfing.com	TRUE	/	FALSE	1807823186	amplitude_idcouchsurfing.com	eyJkZXZpY2VJZCI6ImNiMzNiMjhkLTEyNDUtNDU0OS1hMzk2LThjNThmNzI1YTg3YSIsInVzZXJJZCI6IjIwMDU2MzEzOTciLCJnbG9iYWxVc2VyUHJvcGVydGllcyI6eyJnZW5kZXIiOiJtYWxlIiwiYWdlIjoyMiwiY2FuSG9zdCI6Im1heWJlIiwicGF5bWVudFZlcmlmaWVkIjpmYWxzZSwicHJvZmlsZUNvdW50cnkiOiJCcmF6aWwifSwib3B0T3V0IjpmYWxzZX0=
