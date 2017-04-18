@@ -12,7 +12,7 @@ class Host:
 cookies = cookiejar.MozillaCookieJar("cookies.txt")
 cookies.load()
 cookieProcessor = urllib.request.HTTPCookieProcessor(cookies)
-opener = urllib.request.build_opener(cookieProcessor)
+opener = urllib.request.build_opener()
 
 # fetch pagina web
 r = opener.open("https://www.couchsurfing.com/members/hosts/2?city=Curitiba&country=Brazil&latitude=-25.4244287&longitude=-49.2653819&perPage=10&region=south-america&search_query=Curitiba%2C+Brazil").read()
