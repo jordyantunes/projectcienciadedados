@@ -20,7 +20,7 @@ public class SentiStrengthApp {
 		
 		try {
 			Class.forName("org.sqlite.JDBC");
-			c = DriverManager.getConnection("jdbc:sqlite:resources/reviews.db");
+			c = DriverManager.getConnection("jdbc:sqlite:resources/reviews_2.db");
 			c.setAutoCommit(false);
 			
 			stmt = c.createStatement();
