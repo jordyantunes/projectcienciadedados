@@ -21,9 +21,13 @@ class DataFetcher:
 
 
 	def getSoup(self, url):
-		r = self.opener.open(url).read()
-		soup = BeautifulSoup(r, "html.parser")
-		return soup
+		try:
+			r = self.opener.open(url).read()
+			soup = BeautifulSoup(r, "html.parser")
+			return soup
+		except ExceptionI:
+			print(ExceptionI)
+			return None
 
 	def getJson(self, url):
 		return json.loads(self.opener.open(url).read())
